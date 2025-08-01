@@ -76,8 +76,8 @@ Use `exit` or `quit` to end the session.
 
 ## 📸 Screenshots
 
-### 🖼 Screenshot 1: Normal View of the Research AI Agent   
-![Running the script](AI Research Agent — ai_research_agent _ IBM watsonx_00.png)
+### 🖼 Screenshot 1: Script launch and API Key prompt  
+![Running the script](images/screenshot1.png)
 
 ---
 
