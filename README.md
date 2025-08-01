@@ -87,7 +87,7 @@ Use `exit` or `quit` to end the session.
 ---
 
 ### 🖼 Screenshot 3: Research AI Agent Giving Information About What are the benefits and challenges of hybrid education models? 
-![Full response with history]()
+![Full response with history](https://github.com/Sunny-commit/IBM_CLOUD_AICTE_INTERNSHIP_AI_Research_Agent/blob/main/images/AI%20Research%20Agent%20%E2%80%94%20ai_research_agent%20_%20IBM%20watsonx_3_00.png)
 
 ---
 
