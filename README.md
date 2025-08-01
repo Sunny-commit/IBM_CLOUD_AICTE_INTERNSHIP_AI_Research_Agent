@@ -76,18 +76,18 @@ Use `exit` or `quit` to end the session.
 
 ## 📸 Screenshots
 
-### 🖼 Screenshot 1: Script launch and API Key prompt  
-![Running the script](images/screenshot1.png)
+### 🖼 Screenshot 1: Research AI Agent Normal Frontend View 
+![Running the script](https://github.com/Sunny-commit/IBM_CLOUD_AICTE_INTERNSHIP_AI_Research_Agent/blob/main/images/AI%20Research%20Agent%20%E2%80%94%20ai_research_agent%20_%20IBM%20watsonx_00.png)
 
 ---
 
-### 🖼 Screenshot 2: Conversation in progress  
-![Conversation in progress](images/screenshot2.png)
+### 🖼 Screenshot 2: Research AI Agent Giving Information About How is artificial intelligence transforming healthcare diagnostics?
+![Conversation in progress]()
 
 ---
 
-### 🖼 Screenshot 3: Full response with history  
-![Full response with history](images/screenshot3.png)
+### 🖼 Screenshot 3: Research AI Agent Giving Information About What are the benefits and challenges of hybrid education models? 
+![Full response with history]()
 
 ---
 
