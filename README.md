@@ -28,7 +28,7 @@ This repository contains a Python script designed to interact with an AI agent d
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/Sunny-commit/IBM_CLOUD_AI_Research_Agent.git
+    https://github.com/Sunny-commit/IBM_CLOUD_AICTE_INTERNSHIP_AI_Research_Agent.git
     cd IBM_CLOUD_AI_Research_Agent
     ```
 
@@ -107,6 +107,4 @@ Contributions are welcome! Feel free to open an issue or submit a pull request w
 
 ---
 
-## 📄 License
 
-This project is licensed under the MIT License – see the `LICENSE` file for details.
